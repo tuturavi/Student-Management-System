@@ -9,7 +9,7 @@
 	<h1 align="center">Welcome to Student Management System</h1>
 
 	<form method="post" action="index.php">
-		<table align="center" width="30%" border="1">
+		<table align="center" width="35%" border="1">
 			<tr>
 				<td colspan="2" align="center">Student Information</td>
 			</tr>
